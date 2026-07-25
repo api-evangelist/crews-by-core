@@ -1,8 +1,27 @@
 aid: crews-by-core
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/crews-by-core.png
 name: Crews By Core *
-description: 'Crews By Core * is a company surfaced as a portfolio company of gv and added to the API
-  Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Crews by Core was a construction field-execution platform based in Palo
+  Alto, California (with a Tokyo office), founded and led by CEO Di-Ann Eisnor. Branded
+  "Mission Control for the Field," its mobile-first product gave superintendents and
+  foremen a single tool for lookahead scheduling, jobsite logistics, drawings, and
+  field-to-office messaging, layered with AI-driven risk detection to quantify and
+  mitigate schedule and financial risk on the jobsite. The company was backed by GV
+  (Google Ventures) among ten investors and was acquired by construction IoT company
+  WakeCap on July 1, 2024, folding its scheduling and communication tooling into WakeCap''s
+  worker-productivity sensor platform. Crews by Core did not expose a public developer
+  API; this profile documents the company for the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/crews-by-core/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +29,37 @@ x-backed-by:
 - gv
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: wakecap
+x-acquisition-date: '2024-07-01'
+x-founder: Di-Ann Eisnor
+x-headquarters: Palo Alto, California
+x-former-website: https://crews.bycore.com
+x-is-api-provider: false
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Consumer
+- Construction
+- Construction Technology
+- Field Service Management
+- Project Management
+- Scheduling
+- SaaS
+- Acquired
 apis: []
+common:
+- type: LinkedIn
+  url: https://www.linkedin.com/company/crewsbycore
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
