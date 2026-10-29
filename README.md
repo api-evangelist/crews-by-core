@@ -64,13 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Crews by Core was a construction field-execution platform based in Palo Alto, California (with a Tokyo office), founded and led by CEO Di-Ann Eisnor. Branded "Mission Control for the Field," its mobile-first product gave superintendents and foremen a single tool for lookahead scheduling, jobsite logistics, drawings, and field-to-office messaging, layered with AI-driven risk detection to quantify and mitigate schedule and financial risk on the jobsite.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-- Backed by: GV (Google Ventures), among ten investors
-- Founder / CEO: Di-Ann Eisnor
-- Headquarters: Palo Alto, California
-- Status: Acquired by WakeCap on 2024-07-01
-- Former website: https://crews.bycore.com (no longer resolving)
-- LinkedIn: https://www.linkedin.com/company/crewsbycore
+Crews by Core was a construction field-execution platform based in Palo Alto, California (with a Tokyo office), founded and led by CEO Di-Ann Eisnor. Branded "Mission Control for the Field," its mobile-first product gave superintendents and foremen a single tool for lookahead scheduling, jobsite logistics, drawings, and field-to-office messaging, layered with AI-driven risk detection to quantify and mitigate schedule and financial risk on the jobsite. The company was backed by GV (Google Ventures) among ten investors and was acquired by construction IoT company WakeCap on July 1, 2024, folding its scheduling and communication tooling into WakeCap's worker-productivity sensor platform. Crews by Core did not expose a public developer API; this profile documents the company for the API Evangelist network.
 
-Crews by Core did not expose a public developer API. This profile documents the company for the API Evangelist network; no API artifacts apply.
+**Areas:** Company · Consumer · Construction · Construction Technology · Field Service · Project Management · Scheduling · Software-as-a-Service · Acquired
+
+## Crews By Core * on APIs.io (historical record)
+
+Everything profiled for Crews By Core * is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/crews-by-core/](https://apis.io/providers/crews-by-core/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Crews By Core *: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/crews-by-core/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
